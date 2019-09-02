@@ -28,7 +28,7 @@ function readLine() {
 
 // Complete the reverseArray function below.
 function reverseArray(a) {
-    var arr_reverse = a.reverse();
+    const arr_reverse = a.reverse();
 
     return arr_reverse;
 }

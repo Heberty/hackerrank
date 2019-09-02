@@ -1,3 +1,5 @@
+// https://www.hackerrank.com/challenges/arrays-ds/problem
+
 'use strict';
 
 const fs = require('fs');

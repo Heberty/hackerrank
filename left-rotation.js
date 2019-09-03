@@ -33,6 +33,6 @@ function main() {
 
     const a = readLine().split(' ').map(aTemp => parseInt(aTemp, 10));
     
-    console.log(a);
+    console.log( a );
 
 }
